@@ -1,0 +1,2 @@
+# Meddy
+A Discord bot
